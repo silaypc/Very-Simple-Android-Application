@@ -1,2 +1,2 @@
 # Very-Simple-Android-Application
-Simple Android application made in Android Studio to for personal practice
+Simple Android application made in Android Studio to for personal practice. It doesn't actually generate an account - this was done to test data transfer between two activities and custom spinners.
